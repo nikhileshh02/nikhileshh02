@@ -38,6 +38,6 @@ Building real-world projects one dataset at a time.
 ## 📞 Connect with me
 
 - 💼 LinkedIn: [Nikhilesh Chouhan](https://linkedin.com/in/nikhilesh-chouhan)
-- 📧 Email: [Your Email]
+- 📧 Email: nikhileshchouhan25p@gmail.com
 - 📍 Location: Jaipur, Rajasthan
 - 💼 Open to: Data Analyst roles (Jaipur + Remote)
