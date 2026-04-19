@@ -25,7 +25,6 @@ Building real-world projects one dataset at a time.
 | [E-Commerce RFM Segmentation](link) | Python + MySQL + Power BI | Full pipeline |
 | [Super Store SQL Analytics](link) | MySQL | 23 queries, LAG() window function |
 | [Pharma Sales Dashboard](link) | Power BI | 9-page report, 12+ DAX measures |
-| [COVID-19 Dashboard](link) | Power BI | Global comparison dashboard |
 
 ---
 
