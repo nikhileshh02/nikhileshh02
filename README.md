@@ -20,7 +20,7 @@ Building real-world projects one dataset at a time.
 
 | Project | Tools | Key Insight |
 |---------|-------|-------------|
-| [Hotel Revenue Analytics]((https://github.com/nikhileshh02/superstore-sql-analytics)) | MySQL + Power BI | Rs.170 Cr revenue, 24.8% cancellation rate |
+| [Hotel Revenue Analytics](link-https://github.com/nikhileshh02/superstore-sql-analytics) | MySQL + Power BI | Rs.170 Cr revenue, 24.8% cancellation rate |
 | [Stock Market Analysis](link) | MySQL + Power BI | Apple 85.6% ROI vs Tesla 42.2% |
 | [E-Commerce RFM Segmentation](link) | Python + MySQL + Power BI | Full pipeline |
 | [Super Store SQL Analytics](link) | MySQL | 23 queries, LAG() window function |
