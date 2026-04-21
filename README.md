@@ -23,7 +23,7 @@ Building real-world projects one dataset at a time.
 | [Hotel Revenue Analytics](https://github.com/nikhileshh02/hotel-analytics) | MySQL + Power BI | Rs.170 Cr revenue, 24.8% cancellation rate |
 | [Stock Market Analysis](https://github.com/nikhileshh02/stock-market-analysis) | MySQL + Power BI | Apple 85.6% ROI vs Tesla 42.2% |
 | [E-Commerce RFM Segmentation](https://github.com/nikhileshh02/ecommerce-rfm-segmentation) | Python + MySQL + Power BI | Full pipeline |
-| [Super Store SQL Analytics](https://github.com/nikhileshh02/superstore-sql-analytics)) | MySQL | 23 queries, LAG() window function |
+| [Super Store SQL Analytics](https://github.com/nikhileshh02/superstore-sql-analytics) | MySQL | 23 queries, LAG() window function |
 
 
 ---
