@@ -1,17 +1,14 @@
 # Hi, I am Nikhilesh Chouhan 👋
-
 ### Data Analyst | Python | MySQL | Power BI
-
-B.Sc. PCM Graduate → Data Analytics Trainee @ IIHT Jaipur
+B.Sc PCM Graduate → Data Analytics Trainee @ IIHT Jaipur  
 Building real-world projects one dataset at a time.
 
 ---
 
 ## 🛠️ Tech Stack
-
-**Languages:** Python | SQL (MySQL)
-**BI Tools:** Power BI | DAX | Power Query
-**Concepts:** ETL | Star Schema | RFM Analysis | Window Functions | Data Modelling
+**Languages:** Python | SQL (MySQL)  
+**BI Tools:** Power BI | DAX | Power Query  
+**Concepts:** ETL | Star Schema | RFM Analysis | Window Functions | Data Modelling  
 **Other:** MS Excel | Access Database | Stored Procedures
 
 ---
@@ -24,19 +21,17 @@ Building real-world projects one dataset at a time.
 | [Stock Market Analysis](https://github.com/nikhileshh02/stock-market-analysis) | MySQL + Power BI | Apple 85.6% ROI vs Tesla 42.2% |
 | [E-Commerce RFM Segmentation](https://github.com/nikhileshh02/ecommerce-rfm-segmentation) | Python + MySQL + Power BI | Full pipeline |
 | [Super Store SQL Analytics](https://github.com/nikhileshh02/superstore-sql-analytics) | MySQL | 23 queries, LAG() window function |
-
+| [F.R.I.D.A.Y AI Chatbot](https://github.com/nikhileshh02/friday-chatbot) | Python + Tkinter + SpeechRecognition | Voice-controlled desktop AI with self-learning |
 
 ---
 
 ## 📊 GitHub Stats
-
 ![Nikhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhileshh02&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📞 Connect with me
-
 - 💼 LinkedIn: [Nikhilesh Chouhan](https://linkedin.com/in/nikhilesh-chouhan)
-- 📧 Email: nikhileshchouhan25p@gmail.com
+- 📧 Email: [nikhileshchouhan25p@gmail.com](mailto:nikhileshchouhan25p@gmail.com)
 - 📍 Location: Jaipur, Rajasthan
-- 💼 Open to: Data Analyst roles  
+- 💼 Open to: Data Analyst roles
