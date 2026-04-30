@@ -1,7 +1,12 @@
 # Hi, I am Nikhilesh Chouhan 👋
-### Data Analyst | Python | MySQL | Power BI
-B.Sc PCM Graduate → Data Analytics Trainee @ IIHT Jaipur  
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nikhileshh02.nikhileshh02)
+
+### Data Analyst | Python | SQL | Power BI | Machine Learning
+B.Sc PCM Graduate | Data Analyst | IIHT Jaipur  
 Building real-world projects one dataset at a time.
+
+🎯 Seeking Data Analyst roles | Open to full-time & internship opportunities
 
 ---
 
@@ -21,12 +26,15 @@ Building real-world projects one dataset at a time.
 | [Stock Market Analysis](https://github.com/nikhileshh02/stock-market-analysis) | MySQL + Power BI | Apple 85.6% ROI vs Tesla 42.2% |
 | [E-Commerce RFM Segmentation](https://github.com/nikhileshh02/ecommerce-rfm-segmentation) | Python + MySQL + Power BI | Full pipeline |
 | [Super Store SQL Analytics](https://github.com/nikhileshh02/superstore-sql-analytics) | MySQL | 23 queries, LAG() window function |
-| [F.R.I.D.A.Y AI Chatbot](https://github.com/nikhileshh02/friday-chatbot) | Python + Tkinter + SpeechRecognition | Voice-controlled desktop AI with self-learning |
+| [F.R.I.D.A.Y AI Chatbot](https://github.com/nikhileshh02/friday-chatbot) | Python + Tkinter + SpeechRecognition | Voice AI assistant with NLP, speech recognition & self-learning system |
 
 ---
 
 ## 📊 GitHub Stats
+
 ![Nikhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhileshh02&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhileshh02&layout=compact&theme=tokyonight)
 
 ---
 
