@@ -24,9 +24,9 @@ Building real-world projects one dataset at a time.
 |---------|-------|-------------|
 | [Hotel Revenue Analytics](https://github.com/nikhileshh02/hotel-analytics) | MySQL + Power BI | Rs.170 Cr revenue, 24.8% cancellation rate |
 | [Stock Market Analysis](https://github.com/nikhileshh02/stock-market-analysis) | MySQL + Power BI | Apple 85.6% ROI vs Tesla 42.2% |
-| [E-Commerce RFM Segmentation](https://github.com/nikhileshh02/ecommerce-rfm-segmentation) | Python + SQLite + Power BI | Full pipeline |
+| [E-Commerce RFM Segmentation](https://github.com/nikhileshh02/ecommerce-rfm-segmentation) | Python + SQLite + Power BI | ₹3.3M at-risk revenue, 5 customer segments |
 | [Super Store SQL Analytics](https://github.com/nikhileshh02/superstore-sql-analytics) | MySQL | 23 queries, LAG() window function |
-| [F.R.I.D.A.Y AI Chatbot](https://github.com/nikhileshh02/friday-chatbot) | Python + Tkinter + SpeechRecognition | Voice AI assistant with NLP, speech recognition & self-learning system |
+| [F.R.I.D.A.Y AI Chatbot](https://github.com/nikhileshh02/friday-chatbot) | Python + Tkinter + NLP | Voice desktop chatbot with self-learning system |
 
 ---
 
