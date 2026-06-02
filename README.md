@@ -2,19 +2,20 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nikhileshh02.nikhileshh02)
 
-### Data Analyst | Python | SQL | Power BI | Machine Learning
-B.Sc PCM Graduate | Data Analyst | IIHT Jaipur  
-Building real-world projects one dataset at a time.
+### Aspiring Data Scientist | Data Analyst | Python | SQL | Power BI | Machine Learning
+B.Sc PCM Graduate | Logic-First Data Analyst 
+Building end-to-end data pipelines and predictive models to uncover business insights.
 
-🎯 Seeking Data Analyst roles | Open to full-time & internship opportunities
+🎯 Seeking Data Analyst & Associate Data Scientist roles | Open to opportunities in Jaipur & Mumbai
 
 ---
 
 ## 🛠️ Tech Stack
 **Languages:** Python | SQL (MySQL)  
+**Libraries:** Pandas | NumPy | Seaborn | Matplotlib | Scikit-learn  
 **BI Tools:** Power BI | DAX | Power Query  
-**Concepts:** ETL | Star Schema | RFM Analysis | Window Functions | Data Modelling  
-**Other:** MS Excel | Access Database | Stored Procedures
+**Concepts:** Statistical Analysis | Outlier Detection | Predictive Modeling | ETL | RFM Segmentation | Data Modeling  
+**Other Tools:** MS Excel | Access Database | Stored Procedures | Git & GitHub
 
 ---
 
@@ -22,11 +23,12 @@ Building real-world projects one dataset at a time.
 
 | Project | Tools | Key Insight |
 |---------|-------|-------------|
-| [Hotel Revenue Analytics](https://github.com/nikhileshh02/hotel-analytics) | MySQL + Power BI | Rs.170 Cr revenue, 24.8% cancellation rate |
-| [Stock Market Analysis](https://github.com/nikhileshh02/stock-market-analysis) | MySQL + Power BI | Apple 85.6% ROI vs Tesla 42.2% |
-| [E-Commerce RFM Segmentation](https://github.com/nikhileshh02/ecommerce-rfm-segmentation) | Python + SQLite + Power BI | ₹3.3M at-risk revenue, 5 customer segments |
-| [Super Store SQL Analytics](https://github.com/nikhileshh02/superstore-sql-analytics) | MySQL | 23 queries, LAG() window function |
-| [F.R.I.D.A.Y AI Chatbot](https://github.com/nikhileshh02/friday-chatbot) | Python + Tkinter + NLP | Voice desktop chatbot with self-learning system |
+| [🏥 Healthcare Utilization Analytics](https://github.com/nikhileshh02/healthcare-utilization-analytics) | Python + Pandas + Seaborn | Analyzed 55,500 patient records; identified peak summer trends and isolated Obesity as the highest-billing condition. |
+| [📉 Stock Market Performance Analysis](https://github.com/nikhileshh02/stock-market-analysis) | MySQL + Power BI | Engineered data models over 2,500+ records to calculate rolling growth percentages and portfolio ROI (Apple 85.6% vs Tesla 42.2%). |
+| [🛍️ E-Commerce Growth & Churn Engine](https://github.com/nikhileshh02/ecommerce-rfm-segmentation) | Python + MySQL + Power BI | Generated and analyzed a synthetic dataset of 10,000 unique customers using advanced RFM logic to identify ₹3.3M at-risk revenue. |
+| [🏨 Hotel Revenue Analytics](https://github.com/nikhileshh02/hotel-analytics) | MySQL + Power BI | Designed a logic-first matrix dashboard mapping Rs.170 Cr revenue and isolating a 24.8% customer cancellation rate. |
+| [🏪 Super Store SQL Analytics](https://github.com/nikhileshh02/superstore-sql-analytics) | MySQL | Wrote 23 complex analytical queries using window functions (`LAG()`, `LEAD()`) to identify year-over-year growth patterns. |
+| [🤖 F.R.I.D.A.Y AI Chatbot](https://github.com/nikhileshh02/friday-chatbot) | Python + NLP + Tkinter | Built a voice-activated desktop automation assistant with integrated natural language understanding. |
 
 ---
 
@@ -41,5 +43,5 @@ Building real-world projects one dataset at a time.
 ## 📞 Connect with me
 - 💼 LinkedIn: [Nikhilesh Chouhan](https://linkedin.com/in/nikhilesh-chouhan)
 - 📧 Email: [nikhileshchouhan25p@gmail.com](mailto:nikhileshchouhan25p@gmail.com)
-- 📍 Location: Jaipur, Rajasthan
-- 💼 Open to: Data Analyst roles
+- 📍 Location: Jaipur, Rajasthan (Open to relocating to Mumbai)
+- 💼 Open to: Data Analyst / Data Scientist / Analytics Roles
