@@ -23,6 +23,7 @@ Building end-to-end data pipelines and predictive models to uncover business ins
 
 | Project | Tools | Key Insight |
 |---------|-------|-------------|
+| [💳 Credit Card Customer & Revenue Risk Analytics](https://github.com/nikhileshh02/credit-card-customer-analytics) | MySQL + Power BI + Python | Wrote 50 SQL business KPIs and built a 3-page Power BI dashboard with Week-over-Week tracking across 10,293 customers; isolated high-risk delinquency segments by credit utilization band. |
 | [🏥 Healthcare Utilization Analytics](https://github.com/nikhileshh02/healthcare-utilization-analytics) | Python + Pandas + Seaborn | Analyzed 55,500 patient records; identified peak summer trends and isolated Obesity as the highest-billing condition. |
 | [📉 Stock Market Performance Analysis](https://github.com/nikhileshh02/stock-market-analysis) | MySQL + Power BI | Engineered data models over 2,500+ records to calculate rolling growth percentages and portfolio ROI (Apple 85.6% vs Tesla 42.2%). |
 | [🛍️ E-Commerce Growth & Churn Engine](https://github.com/nikhileshh02/ecommerce-rfm-segmentation) | Python + MySQL + Power BI | Generated and analyzed a synthetic dataset of 10,000 unique customers using advanced RFM logic to identify ₹3.3M at-risk revenue. |
